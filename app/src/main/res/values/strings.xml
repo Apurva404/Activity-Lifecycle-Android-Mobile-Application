@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Activity Lifecycle Assignment</string>
+    <string name="dialog_text">Dialog</string>
+
+    <string name="activity_a_label">Activity A</string>
+    <string name="activity_b_label">Activity B</string>
+
+    <string name="btn_start_a_label">Start A</string>
+    <string name="btn_finish_a_label">Finish A</string>
+    <string name="btn_start_b_label">Start B</string>
+    <string name="btn_finish_b_label">Finish B</string>
+    <string name="btn_start_dialog_label">Dialog</string>
+    <string name="btn_close_dialog_label">Close</string>
+
+    <string name="timer_counter_label">Timer Counter</string>
+    <string name="context_switch_counter_label">Context Switch Counters</string>
+
+    <string name="activity_b_main_text">Activity A is still updating counters in background!</string>
+</resources>
